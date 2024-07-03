@@ -1,0 +1,1 @@
+Write a method that will ask the user to enter a number from min to max. If an incorrect value is entered, ask to enter the correct value. Repeat until the correct value is entered min, max - accepted variables of the method
